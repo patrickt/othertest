@@ -1,0 +1,3 @@
+def people; end
+
+people()
