@@ -1,5 +1,5 @@
-def people; end
-def barf; end
+def people: pass
+def barf: pass
 
 people()
 barf() # they sure do
